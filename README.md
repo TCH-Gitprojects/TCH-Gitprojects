@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Welcome to my Github
+
+### 🌱 I’m currently learning Data Analysis at the Wild Code School and will publish my projects once they are ready to be shared.
 
 <!--
 **TCH-Gitprojects/TCH-Gitprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
