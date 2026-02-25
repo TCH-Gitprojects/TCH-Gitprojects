@@ -1,14 +1,14 @@
 ### Salut ! 👋
 #### 😄 Bienvenu sur mon Github
 
-#### 💬 Je suis actuellement en formation de Data Analyst à la Wild Code School et je publie les projets réalisés dans le cadre de cette formation lorsqu'ils sont prêt pour le baptème du feu.
+#### 💬 Ceci est mon portfolio et sera mis à jour avec mes nouvelles réalisations très bientôt.
 
 #### 📫 N'hésitez pas à me contacter sur LinkedIn pour plus d'infos.
 
 ### Hi there ! 👋
 #### 😄 Welcome to my Github
 
-#### 💬 I’m currently learning Data Analysis at the Wild Code School and will publish my projects once they are ready to be shared.
+#### 💬 This is my portfolio and it will get updated with my new projects soon.
 
 #### 📫 Feel free to reach me on my LinkedIn.
 
